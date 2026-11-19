@@ -22,6 +22,11 @@ ways to see your world: a **shoulder camera** for building and fighting in third
 **Dungeons camera** that looks down on your character from above. The server needs nothing
 installed, so it works in single player, worlds you host, Realms and servers.
 
+> [!WARNING]
+> 🤖 **Vantage is fully vibe-coded.** Every line was written by AI (Claude) from plain-language
+> direction and in-game playtesting, not by hand. It works well in testing, but treat it like any
+> experimental mod and keep backups of worlds you care about.
+
 > [!NOTE]
 > Vantage is in active development and is tested by hand on a single game version. Expect the odd
 > rough edge, and please report what you find.
@@ -159,10 +164,6 @@ Each extra view (shoulders, Dungeons, front) can be removed from the F5 cycle in
 **Updating:** download the newer release and replace the `vantage` folder in `mods/`. To keep your
 settings, keep the `config` folder from the old copy.
 
-**Coming from Better Cameras?** Vantage is the same mod under a new name. Delete the old
-`better_cameras` folder from `mods/`. To keep your settings, copy `better_cameras/config/config.json`
-into `vantage/config/`.
-
 **Uninstalling:** delete the `vantage` folder from `mods/`.
 
 ## ⚙️ Settings
@@ -251,6 +252,7 @@ Suggestions are welcome; open an issue.
 - **[LeviMC / LiteLDev](https://github.com/LiteLDev)**: [LeviLamina](https://github.com/LiteLDev/LeviLamina),
   the mod loader and the Bedrock headers Vantage is built on.
 - Camera ideas inspired by *Minecraft Dungeons* and third-person shoulder-camera mods.
+- Vibe-coded with **Claude** (Anthropic): all code written by AI from plain-language direction.
 
 ---
 
