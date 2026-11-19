@@ -252,13 +252,12 @@ Suggestions are welcome; open an issue.
 - **[LeviMC / LiteLDev](https://github.com/LiteLDev)**: [LeviLamina](https://github.com/LiteLDev/LeviLamina),
   the mod loader and the Bedrock headers Vantage is built on.
 - Camera ideas inspired by *Minecraft Dungeons* and third-person shoulder-camera mods.
-- Vibe-coded with **Claude** (Anthropic): all code written by AI from plain-language direction.
 
 ---
 
 <div align="center">
 
-**Vantage** is a fan-made mod and is not affiliated with Mojang Studios or Microsoft.
+
 *Minecraft* and *Minecraft Dungeons* are trademarks of Mojang Studios.
 
 </div>
