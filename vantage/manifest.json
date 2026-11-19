@@ -1,0 +1,7 @@
+{
+    "name": "vantage",
+    "entry": "vantage.dll",
+    "version": "0.2.1",
+    "type": "native",
+    "platform": "universal"
+}
