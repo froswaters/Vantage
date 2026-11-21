@@ -1,0 +1,20 @@
+format = 4
+id = "github.com/froswaters/Vantage"
+version = "0.2.1"
+
+[info]
+name = "Vantage"
+description = "Over-the-shoulder and Dungeons-style cameras for Minecraft Bedrock"
+tags = ["visual", "utility"]
+logo = "https://raw.githubusercontent.com/froswaters/Vantage/main/vantage-icon.png"
+
+[[variants.""]]
+side = "client"
+platform = "win-x64"
+
+[variants."".deps]
+"github.com/LiteLDev/LeviLamina" = "26.60.*"
+
+[[variants."".assets]]
+type = "mcmod"
+urls = ["https://github.com/froswaters/Vantage/releases/download/v{{version}}/vantage.zip"]
